@@ -1,0 +1,5 @@
+#EXTINF:-1 group-title="France" tvg-logo="http://ip.viks.tv/posts/2022-08/1659824773_tet.png", Tf1
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/447-tet_11.html
+
