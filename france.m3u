@@ -3,3 +3,9 @@
 #EXTVLCOPT:http-find=.m3u8
 http://ip.viks.tv/452-id-extra-v3.html
 
+
+#EXTINF:-1 group-title="France" tvg-logo="http://ip.viks.tv/posts/2022-02/1644772512_idxtra.png", Top Secret
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=.m3u8
+http://ip.viks.tv/433-top-secret.html
+
