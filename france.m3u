@@ -59,3 +59,44 @@ http://ip.viks.tv/452-id-extra-v3.html
 #EXTVLCOPT:http-referrer=https://ip.viks.tv/
 #EXTVLCOPT:http-find=m3u8
 http://ip.viks.tv/359-inter.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-08/1659824773_tet.png", 9
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-find=.m3u8
+http://ip.viks.tv/447-tet_11.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-09/1662376085_1.png", Top Secret
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/433-top-secret.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644772512_idxtra.png", ID Xtra
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/452-id-extra-v3.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-02/1455302383_inter.png", ÐÐ½ÑÐµÑ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/359-inter.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-04/1460741619_boec.png", ÐÐ¾ÐµÑ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/111326-match_boec-tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2017-07/1498928568_9_kanal_israel.png", 9 ÐºÐ°Ð½Ð°Ð» ÐÐ·ÑÐ°Ð¸Ð»Ñ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/520-9-kanal-izrail_20.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644773950_ostrosujetnoe.png", ÐÑÑÑÐ¾ÑÑÐ¶ÐµÑÐ½Ð¾Ðµ HD
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/458-ostrosyuzhetnoe-hd_6.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644773822_nst.png", ÐÐ¡Ð¢
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/394-nst_4.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-04/1459931739_soyuzmultfilm.png", Ð¡Ð¾ÑÐ·ÐÑÐ»ÑÑÑÐ¸Ð»ÑÐ¼
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/415-soyuzmultfilm.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-12/1483099965_24tehno.png", 24 Ð¢ÐµÑÐ½Ð¾
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/105230-24-tehno.html
