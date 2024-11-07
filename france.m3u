@@ -18,3 +18,5 @@ http://ip.viks.tv/433-top-secret.html
 #EXTVLCOPT:http-referrer=https://ip.viks.tv/
 #EXTVLCOPT:http-find=.m3u8
 http://ip.viks.tv/433-top-secret.html
+#EXTINF:-1 group-title="dffsd" tvg-logo="https://azrotv.com/test/888/playlist-github/", dfdf
+https://azrotv.com/test/888/playlist-github/
