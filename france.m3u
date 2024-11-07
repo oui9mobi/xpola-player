@@ -223,3 +223,31 @@ http://ip.viks.tv/415-soyuzmultfilm.html
 #EXTVLCOPT:http-referrer=https://ip.viks.tv/
 #EXTVLCOPT:http-find=m3u8
 http://ip.viks.tv/105230-24-tehno.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-05/1464268101_24-ukraina.png", 24 Ð£ÐºÑÐ°Ð¸Ð½Ð°
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/117212-24-ukraina.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-03/1459349299_sarafan.png", Ð¡Ð°ÑÐ°ÑÐ°Ð½
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/101626-sarafan.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-05/1463477891_rossiya-rtr.png", Ð Ð¾ÑÑÐ¸Ñ Ð Ð¢Ð 
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/113518-rossiya-rtr.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-03/1520247550_otse.png", ÐÐ¦Ð
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/425-otce.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-04/1459775089_rbk.png", Ð ÐÐ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/414-rbk.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-03/1457526692_belarus-1.png", ÐÐµÐ»Ð°ÑÑÑÑ 1
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/114812-belarus-1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-03/1457768028_ru-tv.png", RU TV
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/392-ru-tv_v1.html
