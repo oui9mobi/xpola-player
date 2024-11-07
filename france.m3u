@@ -307,3 +307,717 @@ http://ip.viks.tv/114812-belarus-1.html
 #EXTVLCOPT:http-referrer=https://ip.viks.tv/
 #EXTVLCOPT:http-find=m3u8
 http://ip.viks.tv/392-ru-tv_v1.html
+#EXTM3U
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-08/1659824773_tet.png", 9
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-find=.m3u8
+http://ip.viks.tv/447-tet_11.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-09/1662376085_1.png", Top Secret
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/433-top-secret.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644772512_idxtra.png", ID Xtra
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/452-id-extra-v3.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-02/1455302383_inter.png", ÐÐ½ÑÐµÑ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/359-inter.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-04/1460741619_boec.png", ÐÐ¾ÐµÑ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/111326-match_boec-tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2017-07/1498928568_9_kanal_israel.png", 9 ÐºÐ°Ð½Ð°Ð» ÐÐ·ÑÐ°Ð¸Ð»Ñ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/520-9-kanal-izrail_20.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644773950_ostrosujetnoe.png", ÐÑÑÑÐ¾ÑÑÐ¶ÐµÑÐ½Ð¾Ðµ HD
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/458-ostrosyuzhetnoe-hd_6.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644773822_nst.png", ÐÐ¡Ð¢
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/394-nst_4.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-04/1459931739_soyuzmultfilm.png", Ð¡Ð¾ÑÐ·ÐÑÐ»ÑÑÑÐ¸Ð»ÑÐ¼
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/415-soyuzmultfilm.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-12/1483099965_24tehno.png", 24 Ð¢ÐµÑÐ½Ð¾
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/105230-24-tehno.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644791338_lya_minor.png", ÐÑ Ð¼Ð¸Ð½Ð¾Ñ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/478-lya-minor.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-04/1461517773_discovery.png", Discovery
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/428-discovery_3.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-03/1456930252_zhivaya-planeta.png", ÐÐ¸Ð²Ð°Ñ Ð¿Ð»Ð°Ð½ÐµÑÐ°
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/382-zhivaya-planeta.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-08/1659824875_udar.png", UDAR
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/600-udar_1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-12/1481208149_sony-sci-fi.png", Sony Sci-Fi
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/466-sony-sci-fi.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2019-03/1553176550_kino.png", ÐÐÐÐ Ð¢Ð
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/573-kino-tv_17.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-08/1659824625_dojd.png", ÐÐ¾Ð¶Ð´Ñ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/404-dozhdtv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2019-12/1576493915_history_2.png", History 2
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/601-history_5.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-01/1515849337_ohotnik-i-rybolov.png", ÐÑÐ¾ÑÐ½Ð¸Ðº Ð¸ Ð ÑÐ±Ð¾Ð»Ð¾Ð²
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/475-ohotnik-i-rybolov.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-04/1459591762_viasat-nature.png", Viasat Nature
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/387-viasat_nature-v1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2019-12/1576500079_mir_basketbola.png", ÐÐ¸Ñ ÐÐ°ÑÐºÐµÑÐ±Ð¾Ð»Ð°
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/602-mir-basketbola.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-09/1475265604_stb.png", Ð¡Ð¢Ð
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/118012-stbtv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-08/1659824497_m1.png", Ð1
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/482-m1_tv_kanal_1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644774021_noviy_kanal.png", ÐÐ¾Ð²ÑÐ¹ ÐºÐ°Ð½Ð°Ð»
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/412-novyy-kanal_13.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2019-05/1558096621_premer.png", ÐÐ°ÑÑ ÐÑÐµÐ¼ÑÐµÑ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/025017-match-premer-tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-05/1463987713_match-igra.png", ÐÐ°ÑÑ! ÐÐ³ÑÐ°
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/101424-matchigra_tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-03/1459448418_oruzhie.png", ÐÑÑÐ¶Ð¸Ðµ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/107926-oruzhie_v1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1645278582_pobeda.png", ÐÐ¾Ð±ÐµÐ´Ð°
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/612-pobeda_3.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644776222_muz_tv.png", ÐÑÐ· Ð¢Ð
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/369-muz-tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-08/1659825071_mtv_80s-2.png", MTV 80s
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/399-vh1-classic.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-08/1659825283_mtv_00s.png", MTV 00s
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/402-vh1-europe.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1645008295_dtx.png", DTX
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/606-dtx.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-08/1659824774_u_gostax_v_skazki.png", Ð ÐÐ¾ÑÑÑÑ Ñ Ð¡ÐºÐ°Ð·ÐºÐ¸
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/555-v-gostyah-u-skazki_1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-03/1457459702_viasat-sport.png", Viasat Sport
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/111812-viasat-sport-tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644776344_khl.png", ÐÐ¥Ð
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/104028-khl.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-08/1659824453_2plus2.png", 2+2
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/118112-22-tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-04/1460727994_tom-i-dzherri.png", Ð¢Ð¾Ð¼ Ð¸ ÐÐ¶ÐµÑÑÐ¸
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/424-tom-i-dzherri.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-04/1459591956_viasat-explorer.png", Viasat Explorer
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/386-viasat-explorer-tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644773606_animal_planet.png", Animal Planet
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/366-animal-planet_1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-12/1543639852_yu_tv.png", Ð® Ð¢Ð
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/117401-yu-tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-12/1543635163_ohota_ribalka.png", ÐÑÐ¾ÑÐ° Ð¸ ÑÑÐ±Ð°Ð»ÐºÐ°
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/385-ohota-i-rybalka.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-07/1468089875_eralash.png", ÐÑÐ°Ð»Ð°Ñ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/103826-eralash.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644773702_dom.png", Ð ÑÑÑÐºÐ¸Ð¹ Ð´ÐµÑÐµÐºÑÐ¸Ð²
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/450-russkiy-detektiv_3.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-02/1456435230_national-geographic.png", National Geographic
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/375-national-geographic_4.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-06/1466427779_mult.png", ÐÑÐ»ÑÑ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/455-mult.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-02/1456479371_2h2.png", 2Ñ2
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/376-2h2_v1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-04/1524047546_kinohit.png", ÐÐ¸Ð½Ð¾ÑÐ¸Ñ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/477-kinohit_14.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-11/1543602747_eurosport2.png", ÐÐ²ÑÐ¾ÑÐ¿Ð¾ÑÑ 2
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/033821-evrosport2-tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-02/1454934801_zvezda.png", ÐÐ²ÐµÐ·Ð´Ð°
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/349-zvezda_1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-12/1543636483_nickelodeon.png", Nickelodeon
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/397-nickelodeon_v1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-02/1454857966_disney.png", Disney
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/344-disney_v1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-11/1543602991_eurosport.png", ÐÐ²ÑÐ¾ÑÐ¿Ð¾ÑÑ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/058809-evrosport-tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644774874_setanta_sport.png", Ð¡ÐµÑÐ°Ð½ÑÐ° Ð¡Ð¿Ð¾ÑÑ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/028420-setanta_sport-tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-06/1466537756_russkiy-roman.png", Ð ÑÑÑÐºÐ¸Ð¹ ÑÐ¾Ð¼Ð°Ð½
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/456-russkiy-roman_v1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-04/1459592895_history.png", History
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/104226-history.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-11/1543604114_muzhskoe_kino.png", ÐÑÐ¶ÑÐºÐ¾Ðµ ÐºÐ¸Ð½Ð¾
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/116112-muzhskoe-kino.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-12/1543637572_rentv.png", Ð ÐµÐ½ Ð¢Ð
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/346-ren-tv_6.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-05/1462903252_domkino.png", ÐÐ¾Ð¼ ÐºÐ¸Ð½Ð¾
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/438-dom-kino_19.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-06/1466620650_ictv.png", ICTV
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/459-ictv_tv-kanal.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-04/1461772838_belarus-5.png", ÐÐµÐ»Ð°ÑÑÑÑ 5
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/109528-belarus_5.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2015-11/1447492949_tnt.png", Ð¢ÐÐ¢
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/333-tnt_tv_v1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-06/1466606086_strashnoe-hd.png", Ð¡ÑÑÐ°ÑÐ½Ð¾Ðµ HD
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/081309-strashnoe-hd.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1645629291_kinouzas.png", ÐÐ¸Ð½Ð¾Ð£Ð¶Ð°Ñ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/620-kinouzhas_8.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1645461345_pryamiy.png", ÐÑÑÐ¼Ð¾Ð¹ (Ð£ÐºÑÐ°Ð¸Ð½Ð°)
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/625-pryamoy-ukraina.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2019-02/1550062394_shokiruyuscheehd.png", Ð¨Ð¾ÐºÐ¸ÑÑÑÑÐµÐµ HD
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/572-shokiruyuschee-hd_1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2019-05/1558033260_sport-plyus.png", Setanta Sports Plus
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/029620-setanta_sports_plus.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-04/1460666322_tv1000.png", 1000
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/423-1000_15.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-09/1662397036_1.png", ÐÐ¾ÑÑÐ¸Ð»ÑÐ¼
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/106326-mosfilm.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2019-03/1553193212_hollywood.png", Hollywood
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/576-hollywood.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2019-03/1553321046_ntv_hit.png", ÐÐ¢Ð Ð¥Ð¸Ñ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/581-ntv-hit_12.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-12/1543653235_nash_detektiv.png", ÐÐ°Ñ Ð´ÐµÑÐµÐºÑÐ¸Ð²
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/526-nash-detektiv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-08/1659824669_red.png", .red
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/105426-sony.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-04/1462031865_nick-jr.png", Nick Jr
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/432-nick-jr.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2017-12/1513415752_vip-megahit.png", VIP Megahit
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/419-1000-megahit_16.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-04/1460666864_1000-action.png", 1000 Action
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/422-1000-action_9.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-09/1537329090_nashe_novoe_kino.png", ÐÐ°ÑÐµ ÐÐ¾Ð²Ð¾Ðµ ÐÐ¸Ð½Ð¾
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/484-nashe-novoe-kino_4.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2017-01/1483620381_dom_kino_premium.png", ÐÐ¾Ð¼ ÐÐ¸Ð½Ð¾ ÐÑÐµÐ¼Ð¸ÑÐ¼
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/512-dom-kino-premium_12.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2017-11/1511966866_kino.png", Ð Ð¾Ð´Ð½Ð¾Ðµ ÐºÐ¸Ð½Ð¾
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/534-rodnoe-kino_1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-11/1543603622_discovery_science.png", Discovery science
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/523-discovery-science.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2015-11/1447851200_pyatyy-kanal.png", ÐÑÑÑÐ¹
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/105326-pyatyy.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-11/1543589627_bokstv.png", ÐÐ¾ÐºÑ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/055822-boks.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644773431_zee_tv.png", Zee TV
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/362-zee-tv_v2.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2017-12/1513415959_premiere.png", VIP Premiere
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/418-1000-premium_18.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-02/1456339781_istoriya.png", ÐÑÑÐ¾ÑÐ¸Ñ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/373-istoriya.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2017-12/1513415842_vip-comedy.png", VIP Comedy
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/420-1000-comedy_6.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1645019599_zoom.png", Zoom
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/107526-zoom.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-08/1659824880_black.png", .black
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/622-sony-turbo_2.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1645010567_sport1.png", Ð¡Ð¿Ð¾ÑÑ 1 UA
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/103308-sport-1-ua.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1645010420_sport2.png", Ð¡Ð¿Ð¾ÑÑ 2 UA
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/108808-sport-2-ua.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1645019754_konniy_mir.png", ÐÐ¾Ð½Ð½ÑÐ¹ ÐÐ¸Ñ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/619-konnyy-mir.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1645020004_dnk.png", DNK
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/621-dnk.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644961857_amediahit.png", Amedia Hit
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/604-amedia-hit.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644961249_kazakh_tv.png", Kazakh TV KZ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/603-kazakh-tv-kz.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1645008033_1644597898_bigudi.png", ÐÐ¸Ð³ÑÐ´Ð¸
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/117808-bigudi.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-03/1459447804_mega.png", ÐÐµÐ³Ð°
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/407-mega.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-04/1460667089_1000-russkoe-kino.png", 1000 Ð ÑÑÑÐºÐ¾Ðµ ÐºÐ¸Ð½Ð¾
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/421-1000-russkoe-kino_14.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-12/1545166009_kinopremyera.png", ÐÐ¸Ð½Ð¾Ð¿ÑÐµÐ¼ÑÐµÑÐ°
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/467-kino-hd_3.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644773923_sts_love.png", Ð¡Ð¢Ð¡ Love
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/374-sts-love_v1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2019-12/1576320498_sts.png", Ð¡Ð¢Ð¡
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/112107-sts.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644772940_mult.png", ÐÑÐ»ÑÑ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/538-mult.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-12/1543652194_karusel.png", ÐÐ°ÑÑÑÐµÐ»Ñ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/338-karusel.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2019-01/1546605183_mir.png", ÐÐ¸Ñ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/568-mir_v2.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-09/1537429820_perviy_vegan.png", ÐÐµÑÐ²ÑÐ¹ ÐÐµÐ³ÐµÑÐ°ÑÐ¸Ð°Ð½ÑÐºÐ¸Ð¹
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/561-pervyy-vegetarianskiy.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644773183_priklutshwnie.png", ÐÑÐ¸ÐºÐ»ÑÑÐµÐ½Ð¸Ñ HD
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/559-priklyucheniya-hd.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-09/1537428195_dorama.png", ÐÐ¾ÑÐ°Ð¼Ð°
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/558-dorama.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2019-03/1553479325_bridge_tv.png", Bridge TV
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/584-bridge-tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2015-11/1447847671_pervyy.png", ÐÐµÑÐ²ÑÐ¹ ÐºÐ°Ð½Ð°Ð»
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/116520-pervyy-kanal_5.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644773354_moya_stihiya.png", ÐÐ¾Ñ Ð¡ÑÐ¸ÑÐ¸Ñ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/522-moya_stihiya.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-12/1543638724_shetv.png", Ð§Ðµ Ð¢Ð
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/109126-che_tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2017-01/1483617380_bober.png", ÐÐ¾Ð±ÑÑ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/509-bober_v1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-11/1543603888_tnt_music.png", Ð¢ÐÐ¢ MUSIC
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/518-tnt-music.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2017-01/1483617839_evrokino.png", ÐÐ²ÑÐ¾ÐºÐ¸Ð½Ð¾
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/104226-evrokino.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-08/1471878411_eda-tv.png", ÐÐ´Ð° Ð¢Ð
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/481-eda-tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-09/1537329496_lubimoe_kino.png", ÐÑÐ±Ð¸Ð¼Ð¾Ðµ ÐÐ¸Ð½Ð¾
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/554-lyubimoe-kino_2.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-12/1543639340_moya_planeta.png", ÐÐ¾Ñ Ð¿Ð»Ð°Ð½ÐµÑÐ°
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/406-moya-planeta.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-02/1454863994_tvc.png", Ð¢ÐÐ¦
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/347-tvc_2.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-12/1481209572_nostalgiya.png", ÐÐ¾ÑÑÐ°Ð»ÑÐ³Ð¸Ñ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/469-nostalgiya.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-04/1461868599_rtr-planeta.png", Ð Ð¢Ð  ÐÐ»Ð°Ð½ÐµÑÐ°
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/118218-rtr_rossiya.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2019-02/1549014992_galaxy.png", Galaxy TV
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/463-galaxy-tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2015-11/1447668871_rossiya-24.png", Ð Ð¾ÑÑÐ¸Ñ 24
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/126307-rossiya_24_tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-03/1458657978_ntv.png", ÐÐ¢Ð
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/401-ntv_v1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2015-11/1447855703_rossiya-1.png", Ð Ð¾ÑÑÐ¸Ñ 1
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/031327-rossiya1_tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2019-05/1557993882_kazsport.png", KazSport
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/102509-kazsport_tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644774070_sport_uz.png", Sport UZ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/592-sport-uz.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2019-03/1553591681_romantichnoe.png", Ð Ð¾Ð¼Ð°Ð½ÑÐ¸ÑÐ½Ð¾Ðµ HD
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/588-romantichnoe-hd.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2019-03/1553480104_kinoseriya.png", ÐÐ¸Ð½Ð¾ÑÐµÑÐ¸Ñ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/587-kinoseriya_5.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644774212_dushevnoe.png", ÐÑÑÐµÐ²Ð½Ð¾Ðµ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/586-dushevnoe.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644774442_ntv_serial.png", ÐÐ¢Ð Ð¡ÐµÑÐ¸Ð°Ð»
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/580-ntv-serial_3.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2019-03/1553233279_nashe_tv.png", ÐÐ°ÑÐµ Ð¢Ð
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/579-nashe-tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2019-03/1553182244_multimuzyka.png", ÐÑÐ»ÑÑÐ¼ÑÐ·ÑÐºÐ°
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/575-multimuzyka.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2019-03/1553182074_komediya.png", Ð ÑÑÑÐºÐ°Ñ ÐÐ¾Ð¼ÐµÐ´Ð¸Ñ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/574-russkaya-komediya_3.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2019-01/1546605485_mir_24.png", ÐÐ¸Ñ 24
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/569-mir-24.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-09/1537429507_dikaya_ohota.png", ÐÐ¸ÐºÐ°Ñ ÐÑÐ¾ÑÐ° HD
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/560-dikaya-ohota-hd.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-09/1537330990_kvartaltv.png", ÐÐ²Ð°ÑÑÐ°Ð» Ð¢Ð
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/557-kvartal-tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-09/1537327164_jara.png", ÐÐÐ Ð
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/549-zhara.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-09/1537372686_kinosemya.png", ÐÐ¸Ð½Ð¾ÑÐµÐ¼ÑÑ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/553-kinosemya_9.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-09/1537328530_kinosvidanie.png", ÐÐ¸Ð½Ð¾ÑÐ²Ð¸Ð´Ð°Ð½Ð¸Ðµ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/552-kinosvidanie_3.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-09/1537328274_dikiy.png", ÐÐ¸ÐºÐ¸Ð¹
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/026817-dikiy.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-06/1530280802_xsport.png", XSport
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/116112-xsport.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2015-11/1447679436_domashniy.png", ÐÐ¾Ð¼Ð°ÑÐ½Ð¸Ð¹
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/337-domashniy.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-11/1543603490_bollywood.png", Bollywood
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/521-bollywood.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-04/1524074297_mir-seriala.png", ÐÐ¸Ñ ÑÐµÑÐ¸Ð°Ð»Ð°
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/540-mir-seriala.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-12/1543653506_doktor.png", ÐÐ¾ÐºÑÐ¾Ñ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/539-doktor_v1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2017-11/1511967777_illyuzion.png", Ð ÑÑÑÐºÐ¸Ð¹ Ð¸Ð»Ð»ÑÐ·Ð¸Ð¾Ð½
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/535-russkiy-illyuzion.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2017-11/1511876044_gulli_girl.png", Gulli
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/533-gulli.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2017-11/1511874211_avto-plyus.png", ÐÐ²ÑÐ¾ ÐÐ»ÑÑ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/532-avto-plyus.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-12/1543644766_kinomiks.png", ÐÐ¸Ð½Ð¾Ð¼Ð¸ÐºÑ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/530-kinomiks_11.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2017-02/1486149574_russian_extreme.png", Ð ÑÑÑÐºÐ¸Ð¹ ÑÐºÑÑÑÐ¸Ð¼
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/517-russkiy-ekstrim.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-08/1659824923_m2.png", Ð2
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/515-m2tv-kanal_1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644774705_mujskoy.png", ÐÑÐ¶ÑÐºÐ¾Ð¹
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/511-muzhskoy.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2017-11/1511261436_paramount-channel.png", Paramount Channel
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/529-paramount-channel.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2017-01/1483551535_ani.png", Ani
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/505-ani.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2017-01/1483221728_amedia2.png", A2
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/500-a2.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-12/1483211618_amedia1.png", A1
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/499-a1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-12/1483178794_amedia-premium-hd.png", Amedia Premium HD
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/497-amedia-premium-hd_2.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-12/1481648405_belarus-3.png", ÐÐµÐ»Ð°ÑÑÑÑ 3
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/493-belarus-3.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2022-02/1644774867_nauka.png", ÐÐ°ÑÐºÐ° 2
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/492-nauka-2.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-11/1478532237_illyuzion.png", ÐÐ»Ð»ÑÐ·Ð¸Ð¾Ð½ ÐÐ»ÑÑ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/491-illyuzion-plyus_1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-10/1477305140_nat-geo-wild.png", Nat Geo Wild
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/489-nat-geo-wild_1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-09/1475071685_travel-channel.png", Travel Channel
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/488-travel-channel.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-12/1543635987_kuhnya_tv.png", ÐÑÑÐ½Ñ Ð¢Ð
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/486-kuhnya-tv_4.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-12/1543633491_fox_life.png", Fox Life
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/485-fox-life_v1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-12/1545165566_travel_and_adventure.png", Travel and Adventure
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/480-travel-and-adventure.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-07/1469443202_bbc-world-news.png", BBC World News
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/476-bbc-world-news.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-12/1543644521_indiyskoe_kino.png", ÐÐ½Ð´Ð¸Ð¹ÑÐºÐ¾Ðµ ÐÐ¸Ð½Ð¾
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/473-indiya-tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-12/1543640762_tiji.png", Tiji
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/468-tiji.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-12/1543643837_mtv_hits.png", MTV Hits
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/464-mtv-hits.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-12/1543651989_europaplustv.png", Europa Plus TV
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/462-europa-plus-tv.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-12/1543635592_kinokomediya.png", ÐÐ¸Ð½Ð¾ÐºÐ¾Ð¼ÐµÐ´Ð¸Ñ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/453-komediya_1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-06/1465244162_russkiy-bestseller.png", Ð ÑÑÑÐºÐ¸Ð¹ Ð±ÐµÑÑÑÐµÐ»Ð»ÐµÑ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/451-russkiy-bestseller_v1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-12/1543637279_365.png", 365
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/443-365.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-05/1464268101_24-ukraina.png", 24 Ð£ÐºÑÐ°Ð¸Ð½Ð°
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/117212-24-ukraina.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-03/1459349299_sarafan.png", Ð¡Ð°ÑÐ°ÑÐ°Ð½
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/101626-sarafan.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-05/1463477891_rossiya-rtr.png", Ð Ð¾ÑÑÐ¸Ñ Ð Ð¢Ð 
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/113518-rossiya-rtr.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2018-03/1520247550_otse.png", ÐÐ¦Ð
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/425-otce.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-04/1459775089_rbk.png", Ð ÐÐ
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/414-rbk.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-03/1457526692_belarus-1.png", ÐÐµÐ»Ð°ÑÑÑÑ 1
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/114812-belarus-1.html
+#EXTINF:-1 group-title="TV Channels" tvg-logo="http://ip.viks.tv/posts/2016-03/1457768028_ru-tv.png", RU TV
+#EXTVLCOPT:http-referrer=https://ip.viks.tv/
+#EXTVLCOPT:http-find=m3u8
+http://ip.viks.tv/392-ru-tv_v1.html
